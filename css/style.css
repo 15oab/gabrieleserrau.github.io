@@ -25,7 +25,7 @@ h1 {
 .center-image {
   display: block;      /* Treats img like a block element */
   margin: 0 auto;      /* Auto margins left/right center it */
-  max-width: 50%;     /* Keeps image responsive */
+  max-width: 35%;     /* Keeps image responsive */
   height: auto;
 }
 
