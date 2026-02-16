@@ -1,6 +1,6 @@
 :root {
   --width:250px;
-  --height:calc(var(--width) / 2);
+  --height:calc(var(--width) / 1.35);
 }
 
 body {
